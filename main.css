@@ -2,6 +2,7 @@
 {
 	margin: 0px;
 	padding: 0px;	
+
 }
 /**-------------------------------------------------------------------------------**/
 #men_top
@@ -12,7 +13,7 @@
 }
 #men_top img
 {
-	width: 130px;
+	width: 140px;
 	height: 55px;
 }
 /**-------------------------------------------------------------------------------**/
@@ -51,6 +52,14 @@
 	width: 500px;
 	height: 500px;
 	position: absolute; bottom:0px; right: 25px; 
+	margin: 0px;
+	padding: 0px;
+}
+.img2
+{
+	width: px;
+	height: 250px;
+	position: absolute; bottom:38%; right: 25%; 
 	margin: 0px;
 	padding: 0px;
 
