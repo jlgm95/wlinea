@@ -110,6 +110,37 @@
  {
  	width: 60%;
  }
+/**-------------------------------------------------------------------------------**/
+ #pyb
+ {
+	margin: 0px;
+	padding: 0px;
+	height: 665px;
+	width: 1354px;
+ }
+ #pyb blockquote
+ {
+ 	margin: 13px;
+ 	padding:0px;
+ }
+ .pybimg1
+ {
+ 	width: 200px;
+	height: 150px;
+ }
+ .pybimg2
+ {
+ 	width: 150px;
+ 	height: 100px;
+ }
+ .colorS
+ {
+ 	background-color: #FA8072;
+ }
+ .colorA
+ {
+ 	background-color: #20B2AA ;
+ }
 
 
 
