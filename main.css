@@ -167,7 +167,7 @@
 {
 	margin: 0px;
 	padding: 0px;
-	height: 665px;
+	height: 1500px;
 	width: 1354px;
 }
 .cursoimg1
@@ -181,4 +181,18 @@
 	height: 350px;
 	
 }
+/**-------------------------------------------------------------------------------**/
+#final
+{
+	margin: 0px;
+	padding: 0px;
+	height: 540px;
+	width: 1354px;	
+}
+#final img
+{
+	width: 350px;
+	height: 300px;
+}
+
 
