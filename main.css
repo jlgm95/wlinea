@@ -162,4 +162,23 @@
  	width: 150px;
  	height: 100px;
  }
+/**-------------------------------------------------------------------------------**/
+#curso
+{
+	margin: 0px;
+	padding: 0px;
+	height: 665px;
+	width: 1354px;
+}
+.cursoimg1
+{
+ 	width: 200px;
+	height: 150px;	
+}
+.cursoimg2
+{
+	width: 500px;
+	height: 350px;
+	
+}
 
